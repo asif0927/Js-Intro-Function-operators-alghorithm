@@ -1,7 +1,7 @@
 /*Regular */
 function monthNum(num){
     let month = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
-    if(num<0||num>12){
+    if(num<=0||num>=12){
         return "invalid input"
     }
     return month[num-1];

@@ -1,4 +1,4 @@
-let a=44;
+let a=6;
 let result=1;
 let natamamqismet=Math.floor(a/7);//29/7=4 41/7=5 39/7=5
 let qaliq=a%7;//29%7=1;41%7=6  39%7=4
